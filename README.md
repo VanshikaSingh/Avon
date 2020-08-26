@@ -22,7 +22,7 @@ The first page takes in voice input and recognizes commands via speech to text, 
 
 
 ## Development
-[Vanshika Singh](https://github.com/VanshikaSingh) and [Myself](https://github.com/Apurv-T) worked together to develop the iOS and Android application.
+[Apurv Tripathi](https://github.com/Apurv-T) and [Myself](https://github.com/VanshikaSingh) worked together to develop the iOS and Android application.
 
 
 ## Issues
